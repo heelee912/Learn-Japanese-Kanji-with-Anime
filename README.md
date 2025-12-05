@@ -32,7 +32,8 @@ https://jimaku.cc/
 전체 프로젝트와는 상관이 없지만 먼저 싱크가 맞는 한글 및 일본어 자막을 준비하기 전 단계입니다.
 
 <img width="244" height="53" alt="image" src="https://github.com/user-attachments/assets/ffc48668-27e9-4a7b-9d56-e80f6d714ab5" />
-.
+
+---
 
 
 2. 자막 병합
@@ -56,7 +57,7 @@ ass batch를 실행한 후,
 <img width="199" height="38" alt="image" src="https://github.com/user-attachments/assets/07b79773-9203-4e20-bb02-401d01360326" />
 위 내용을 수정하여 폰트를 지정 가능합니다. 다만 실제 지원되는 폰트는 플레이어 환경 및 세팅에 따라 다릅니다
 
-
+---
 
 3. 일본어 자막 위치 반복재생
 
@@ -99,7 +100,7 @@ local DEBUG 같은 경우 디버깅용 코드로 화면에 뜰 경우 false로 �
 기본적으로 대사 길이, 글자수, 반복 횟수를 제외하고는 기본값으로 두어도 된다고 생각합니다.
 
 
-
+---
 
 4. 기타 유용한 mpv.conf
 
