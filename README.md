@@ -32,10 +32,10 @@ https://jimaku.cc/
 전체 프로젝트와는 상관이 없지만 먼저 싱크가 맞는 한글 및 일본어 자막을 준비하기 전 단계입니다.
 
 <img width="244" height="53" alt="image" src="https://github.com/user-attachments/assets/ffc48668-27e9-4a7b-9d56-e80f6d714ab5" />
+.
 
 
-
-2. 자막 병함
+2. 자막 병합
 
 싱크가 맞는 한글 일본 자막 파일을 각각 만들었다면, 자막을 병합할 차례입니다.
 
