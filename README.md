@@ -41,6 +41,8 @@ ass batch를 실행한 후,
 
 <img width="693" height="233" alt="image" src="https://github.com/user-attachments/assets/9bdbe1bc-7dff-4bd3-b5d1-c093573ab56f" />
 
+참고로 폰트의 경우
+
 <img width="199" height="38" alt="image" src="https://github.com/user-attachments/assets/07b79773-9203-4e20-bb02-401d01360326" />
 위 내용을 수정하여 폰트를 지정 가능합니다. 다만 실제 지원되는 폰트는 플레이어 환경 및 세팅에 따라 다릅니다
 
